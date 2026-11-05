@@ -2,17 +2,17 @@
 
 ## Cleaning Data
 
-- [ ] Handle duplicates
-- [ ] country names
-- [ ] market segments undefined
-- [ ] distribution channels undefined
-- [ ] reserved room type and assigned room type (K)
-- [ ] agent nulls
-- [ ] company
-- [ ] arrival date week number (53)
-- [ ] adults (0), Children (NaN)
-- [ ] ADR (0)
-- [ ] Handle bias
+- [x] Handle duplicates
+- [x] country names
+- [x] market segments undefined
+- [x] distribution channels undefined
+- [x] reserved room type and assigned room type (K)
+- [x] agent nulls
+- [x] company
+- [x] arrival date week number (53)
+- [x] adults (0), Children (NaN)
+- [x] ADR (0)
+- [x] Handle bias
 
 ### Outliers
 
