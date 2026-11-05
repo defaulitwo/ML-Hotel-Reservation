@@ -219,4 +219,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-notebooks\my_notebook.ipynb
+notebooks/my_notebook.ipynb
